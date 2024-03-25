@@ -1,0 +1,3 @@
+https://nbviewer.org/github/barbagroup/CFDPython/blob/master/lessons/01_Step_1.ipynb
+https://www.youtube.com/watch?v=1E506yyAyXE&list=PL30F4C5ABCE62CB61&index=5
+https://www.thevisualroom.com/linear_convection.html
